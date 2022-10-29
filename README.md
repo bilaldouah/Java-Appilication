@@ -1,5 +1,7 @@
 # Java-Appilication
-I created a school project on concerning Human resource application, with it you can manage  your services and your employees. I worked with a group of 2 people, i have learned a lot from amazing experience. Down below you can see the source code 
+ i have participated in a school project along with my teammates and we have created a human resources Application using java language programming and mysql database, with it you can manage  your services and your employees. It was such an amazing experience. Down below you can see some screenshots 
+
+
 
 
 You must be logged in to connect to the application
